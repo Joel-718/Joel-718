@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Freitas</h1>
 <h3 align="center">A passionate IMS-Student in the third year</h3>
+<img src="https://www.pinterest.com/pin/126663808259169690/?nic_v3=1a4vNx9Zlp" alt="...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-718&label=Profile%20views&color=0e75b6&style=flat" alt="joel-718" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **joel.freitas@gmx.ch**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
