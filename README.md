@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Freitas</h1>
 <h3 align="center">A passionate IMS-Student in the third year</h3>
-<img src="https://www.pinterest.com/pin/126663808259169690/?nic_v3=1a4vNx9Zlp" alt="...">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/126663808259169690/?nic_v3=1a4vNx9Zlp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-718&label=Profile%20views&color=0e75b6&style=flat" alt="joel-718" /> </p>
 
