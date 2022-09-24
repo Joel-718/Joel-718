@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Freitas</h1>
 <h3 align="center">A passionate IMS-Student in the third year</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/126663808259169690/?nic_v3=1a4vNx9Zlp">
+<p><img align="right" src="[https://github.com/rudrabarad/Gifs](https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif)" alt="gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-718&label=Profile%20views&color=0e75b6&style=flat" alt="joel-718" /> </p>
 
